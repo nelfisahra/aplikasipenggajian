@@ -135,7 +135,7 @@
 
   <!-- Navigation Bar -->
   <nav>
-    <a href="#home">Beranda</a>
+    <a href="#home">Berandaa</a>
     <a class="nav-link" href="{{ route('admin.login') }}">Login Admin</a>  </nav>
 
   <!-- Hero Section -->
